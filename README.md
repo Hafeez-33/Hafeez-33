@@ -18,7 +18,7 @@
 - Built core backend logic for secure and consistent operations  
 
 🌐 Live Demo: https://rupy-bank.vercel.app/ 
-👉 GitHub Repo: https://github.com/Hafeez-33/YOUR-REPO  
+👉 GitHub Repo: https://github.com/Hafeez-33/Banking_app  
 
 ---
 
@@ -30,7 +30,7 @@
 - Designed clean and responsive UI  
 
 🌐 Live Demo: https://task-manager-app-lemon-eta.vercel.app/  
-👉 GitHub Repo: https://github.com/Hafeez-33/YOUR-REPO  
+👉 GitHub Repo: https://github.com/Hafeez-33/Task_Manager_App  
 
 ---
 
@@ -44,7 +44,7 @@
 - - Built using Python, FastAPI, OpenAI API, and vector database (FAISS / Pinecone)
 
 🌐 Live Demo: Coming Soon  
-👉 GitHub Repo: https://github.com/Hafeez-33/YOUR-REPO  
+👉 GitHub Repo: https://github.com/Hafeez-33/llm-document-agent-rag
 
 ---
 
