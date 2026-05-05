@@ -11,24 +11,54 @@
 ## 🚀 Projects
 
 ### 🔹 Banking System  
-💡 Java + SQL based banking application  
+💡 Backend-focused application simulating real-world banking operations  
 
-- Handles transactions and account operations  
-- Backend-focused system design  
+- Implemented deposit, withdrawal, and account management using NextJs and Appwrite  
+- Designed structured database for efficient transaction handling  
+- Built core backend logic for secure and consistent operations  
+
+🌐 Live Demo: https://rupy-bank.vercel.app/ 
+👉 GitHub Repo: https://github.com/Hafeez-33/YOUR-REPO  
+
+---
+
+### 🔹 Task Management App  
+💡 Full stack web application for managing daily tasks  
+
+- Built using React (frontend) and Node.js (backend)  
+- Integrated REST APIs for smooth data flow  
+- Designed clean and responsive UI  
+
+🌐 Live Demo: https://task-manager-app-lemon-eta.vercel.app/  
+👉 GitHub Repo: https://github.com/Hafeez-33/YOUR-REPO  
+
+---
+
+### 🔹 LLM-Based Project (Agentic RAG / AI App)  
+💡 AI Assistant using RAG (LLM-Based System) 
+
+- Built an LLM-based system using Retrieval-Augmented Generation (RAG)  
+- Integrated backend APIs to process and retrieve contextual data  
+- Designed workflow for intelligent query handling and response generation  
+- Worked with embeddings / vector databases for semantic search
+- - Built using Python, FastAPI, OpenAI API, and vector database (FAISS / Pinecone)
 
 🌐 Live Demo: Coming Soon  
 👉 GitHub Repo: https://github.com/Hafeez-33/YOUR-REPO  
 
 ---
 
-### 🔹 Task Management App  
-💡 Full stack app using React & Node.js  
+### 🔹 Restaurant Service Robot  
+💡 Automation project for assisting restaurant operations  
 
-- Create, update, and manage tasks  
-- REST API integration  
+- Developed a robot system for delivering items within a restaurant environment  
+- Implemented navigation logic and obstacle handling  
+- Integrated hardware + software for real-world interaction  
+- Focused on improving service efficiency and reducing manual effort
+- - Used sensors/microcontroller/controllers (Arduino) for navigation
 
-🌐 Live Demo: Coming Soon  
-👉 GitHub Repo: https://github.com/Hafeez-33/YOUR-REPO  
+🎥 Demo Video: Add your video link here (VERY IMPORTANT)  
+👉 GitHub Repo: https://github.com/Hafeez-33/YOUR-REPO    
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Hafeez-33&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
